@@ -1,5 +1,7 @@
 # Janak Rokaya — Portfolio Website
 
+🌐 **Live Site:** [https://james0075k.github.io/Janak-Rokaya-Portfolio/](https://james0075k.github.io/Janak-Rokaya-Portfolio/)
+
 Full-stack MERN portfolio with asteroid canvas background, water ripple effects,
 dark/light mode, scroll animations, and an admin panel to update your photo.
 
